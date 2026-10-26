@@ -1,0 +1,7 @@
+{
+  "uuid": "spincat@melman",
+  "name": "Spinning Cat",
+  "description": "A spinning cat sketch in the top-left corner of the panel.",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "url": "https://github.com/melamann00/spinningcat"
+}
