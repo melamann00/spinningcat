@@ -1,4 +1,4 @@
-# Spinningcat
+# Spinning Cat - GNOME extension
 **Dev:**
 
 
@@ -12,5 +12,5 @@
 
 
 
-![Spin presentation:](spinningcat/blob/main/catspin.gif)
+![Spin presentation:](catspin.gif)
 
