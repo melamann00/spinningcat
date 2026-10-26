@@ -1,4 +1,7 @@
 # Spinning Cat - GNOME extension
+
+Replaces top left hotcorner with this cute spinning fella.
+
 **Dev:**
 
 
