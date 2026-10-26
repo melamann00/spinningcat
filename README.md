@@ -12,5 +12,5 @@
 
 
 
-![Spin presentation:](melamann00/spinningcat/blob/main/catspin.gif)
+![Spin presentation:](spinningcat/blob/main/catspin.gif)
 
